@@ -1,10 +1,21 @@
 body {
-    font-family: 'Roboto', sans-serif !important;
-    color: white !important;
+    font-family: 'Raleway' !important;
+    font-style: normal;
     font-weight: 100 !important;
+    color: white !important;
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: normal;
+    line-height: 1.2;
 }
 h1, h2, h3, p, div {
+    font-family: 'Raleway' !important;
+    font-style: normal;
     font-weight: 100 !important;
+    color: white !important;
+}
+h1 {
+    font-size: 72px;
 }
 .layer {
     position: absolute;
@@ -16,6 +27,13 @@ h1, h2, h3, p, div {
     -ms-transform: translate(0, 50%);
     -webkit-transform: translate(0, 50%);
     transform: translate(0, 50%);
+}
+#lastTitle{
+  font-size: 36px;
+}
+#question{
+  padding-bottom: 100px;
+
 }
 .section {
     -webkit-background-size: cover;
