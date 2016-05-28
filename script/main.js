@@ -25,7 +25,7 @@ var videos = {
             "title": "MONEY",
             "quote": "",
             "key": "question1.1",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/richmoney.mp4",
             "concept": "MONEY"
         },
         "video2": {
@@ -43,14 +43,14 @@ var videos = {
             "title": "SCIENCE",
             "quote": "",
             "key": "question2.1",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/Pure Science.mp4",
             "concept": "SCIENCE"
         },
         "video2": {
             "title": "FICTION",
             "quote": "",
             "key": "question2.2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/pure fantasy.mp4",
             "concept": "FICTION"
         }
     },
@@ -61,14 +61,14 @@ var videos = {
             "title": "LEADERS",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/POLITICIANS.mp4",
             "concept": "LEADERS"
         },
         "video2": {
             "title": "YOURSELF",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/politics 2.mp4",
             "concept": "YOURSELF"
         }
     },
@@ -79,7 +79,7 @@ var videos = {
             "title": "BEING GREEN",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/radicalveganism.mp4",
             "concept": "BEING GREEN"
         },
         "video2": {
@@ -115,14 +115,14 @@ var videos = {
             "title": "JUMPING",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/DANCING OBSESSION.mp4",
             "concept": "JUMPING"
         },
         "video2": {
             "title": "OBSESSING",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/PASSIONS 2.mp4",
             "concept": "OBSESSING"
         }
     }
