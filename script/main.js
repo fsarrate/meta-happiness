@@ -6,14 +6,14 @@ var videos = {
             "title": "ALONE",
             "quote": "",
             "key": "question1",
-            "video": "assets/pure fantasy.mp4",
+            "video": "assets/individual.mp4",
             "concept": "ALONE"
         },
         "video2": {
             "title": "TOGETHER",
             "quote": "",
             "key": "question2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/Collective.mp4",
             "concept": "TOGETHER"
         }
 
@@ -32,7 +32,7 @@ var videos = {
             "title": "DIGNITY",
             "quote": "",
             "key": "question1.2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/nomoneyland.mp4",
             "concept": "DIGNITY"
         }
     },
@@ -86,7 +86,7 @@ var videos = {
             "title": "BEING FAST",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/fastfood.mp4",
             "concept": "BEING FAST"
         }
     },
@@ -97,7 +97,7 @@ var videos = {
             "title": "EASLY",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/positive.mp4",
             "concept": "EASLY"
         },
         "video2": {
