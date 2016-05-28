@@ -104,7 +104,7 @@ var videos = {
             "title": "HARDLY",
             "quote": "",
             "key": "end",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/negative.mp4",
             "concept": "HARDLY"
         }
     },
