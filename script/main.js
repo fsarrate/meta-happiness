@@ -133,29 +133,29 @@ $(document).ready(function() {
     $('#fullpage').fullpage({
         verticalCentered: true,
         sectionsColor: ['#000000', '#000000', '#000000', '#000000', '#000000', '#000000', '#000000', '#000000', '#000000'],
-        afterRender: startQuest
+        afterRender: function() {}
     });
     $.fn.fullpage.setMouseWheelScrolling(false);
     $.fn.fullpage.setAllowScrolling(false);
-    startWebCam();
+
+    $('#start-overlay').on('click', function() {
+        $(this).fadeOut(500, function() {
+            startQuest();
+            startWebCam();
+        });
+    });
 });
 var startWebCam = function() {
     var video = document.querySelector("#videoElement");
 
-    navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia || navigator.oGetUserMedia;
-
-    if (navigator.getUserMedia) {
-        navigator.getUserMedia({
-            video: true
-        }, handleVideo, videoError);
-    }
-
-    function handleVideo(stream) {
-        video.src = window.URL.createObjectURL(stream);
-    }
-
-    function videoError(e) {
-        // do something
+    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(function(stream) {
+                video.srcObject = stream;
+            })
+            .catch(function(e) {
+                // webcam not available
+            });
     }
 }
 
