@@ -1,128 +1,128 @@
 var videos = {
     "question0": {
         "question": "How do we find happiness, without the after-life?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 1",
             "quote": "quote 1",
             "key": "question1",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 2",
             "quote": "quote 2",
             "key": "question2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
 
     },
     "question1": {
         "question": "Chachi question 1?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 1.1",
             "quote": "quote 1.1",
             "key": "question1.1",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 1.2",
             "quote": "quote 1.2",
             "key": "question1.2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     },
     "question2": {
         "question": "Chachi question 2?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 2.1",
             "quote": "quote 2.1",
             "key": "question2.1",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 2.2",
             "quote": "quote 2.2",
             "key": "question2.2",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     },
     "question1.1": {
         "question": "Chachi question 1.1?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 1.1.1",
             "quote": "quote 1.1.1",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 1.2.2",
             "quote": "quote 1.2.2",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     },
     "question1.2": {
         "question": "Chachi question 1.2?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 1.2.1",
             "quote": "quote 1.2.1",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 1.2.2",
             "quote": "quote 1.2.2",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     },
     "question2.1": {
         "question": "Chachi question 2.1?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 2.1.1",
             "quote": "quote 2.1.1",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 2.2.2",
             "quote": "quote 2.2.2",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     },
     "question2.2": {
         "question": "Chachi question 2.2?",
-        "image": "http://fakeimg.pl/250x100/",
+        "image": "",
         "video1": {
             "title": "Title 2.2.1",
             "quote": "quote 2.2.1",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         },
         "video2": {
             "title": "Title 2.2.2",
             "quote": "quote 2.2.2",
             "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "http://techslides.com/demos/sample-videos/small.mp4",
+            "video": "assets/flowers.mp4",
             "concept": "concept"
         }
     }
