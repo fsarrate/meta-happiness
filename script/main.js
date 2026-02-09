@@ -1,129 +1,129 @@
 var videos = {
     "question0": {
-        "question": "How do we find happiness, without the after-life?",
-        "image": "",
+        "question": "HOW DO YOU PREFER YOUR SOCIAL LIFE?",
+        "image": "assets/Relationships.png",
         "video1": {
-            "title": "Title 1",
-            "quote": "quote 1",
+            "title": "ALONE",
+            "quote": "",
             "key": "question1",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/individual.mp4",
+            "concept": "ALONE"
         },
         "video2": {
-            "title": "Title 2",
-            "quote": "quote 2",
+            "title": "TOGETHER",
+            "quote": "",
             "key": "question2",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/Collective.mp4",
+            "concept": "TOGETHER"
         }
 
     },
     "question1": {
-        "question": "Chachi question 1?",
-        "image": "",
+        "question": "WHAT DO YOU OWN?",
+        "image": "assets/Wealth.png",
         "video1": {
-            "title": "Title 1.1",
-            "quote": "quote 1.1",
+            "title": "MONEY",
+            "quote": "",
             "key": "question1.1",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/richmoney.mp4",
+            "concept": "MONEY"
         },
         "video2": {
-            "title": "Title 1.2",
-            "quote": "quote 1.2",
+            "title": "DIGNITY",
+            "quote": "",
             "key": "question1.2",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/nomoneyland.mp4",
+            "concept": "DIGNITY"
         }
     },
     "question2": {
-        "question": "Chachi question 2?",
-        "image": "",
+        "question": "WHAT DO YOU BELIEVE?",
+        "image": "assets/Religion.png",
         "video1": {
-            "title": "Title 2.1",
-            "quote": "quote 2.1",
+            "title": "SCIENCE",
+            "quote": "",
             "key": "question2.1",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/Pure Science.mp4",
+            "concept": "SCIENCE"
         },
         "video2": {
-            "title": "Title 2.2",
-            "quote": "quote 2.2",
+            "title": "FICTION",
+            "quote": "",
             "key": "question2.2",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "video": "assets/pure fantasy.mp4",
+            "concept": "FICTION"
         }
     },
     "question1.1": {
-        "question": "Chachi question 1.1?",
-        "image": "",
+        "question": "WHO DO YOU FOLLOW?",
+        "image": "assets/politics.png",
         "video1": {
-            "title": "Title 1.1.1",
-            "quote": "quote 1.1.1",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "LEADERS",
+            "quote": "",
+            "key": "end",
+            "video": "assets/POLITICIANS.mp4",
+            "concept": "LEADERS"
         },
         "video2": {
-            "title": "Title 1.2.2",
-            "quote": "quote 1.2.2",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "YOURSELF",
+            "quote": "",
+            "key": "end",
+            "video": "assets/politics 2.mp4",
+            "concept": "YOURSELF"
         }
     },
     "question1.2": {
-        "question": "Chachi question 1.2?",
-        "image": "",
+        "question": "HOW DO YOU TAKE CARE OF YOURSELF?",
+        "image": "assets/Health.png",
         "video1": {
-            "title": "Title 1.2.1",
-            "quote": "quote 1.2.1",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "BEING GREEN",
+            "quote": "",
+            "key": "end",
+            "video": "assets/radicalveganism.mp4",
+            "concept": "BEING GREEN"
         },
         "video2": {
-            "title": "Title 1.2.2",
-            "quote": "quote 1.2.2",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "BEING FAST",
+            "quote": "",
+            "key": "end",
+            "video": "assets/fastfood.mp4",
+            "concept": "BEING FAST"
         }
     },
     "question2.1": {
-        "question": "Chachi question 2.1?",
-        "image": "",
+        "question": "HOW DO YOU WASTE YOUR TIME?",
+        "image": "assets/Career.png",
         "video1": {
-            "title": "Title 2.1.1",
-            "quote": "quote 2.1.1",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "EASLY",
+            "quote": "",
+            "key": "end",
+            "video": "assets/positive.mp4",
+            "concept": "EASLY"
         },
         "video2": {
-            "title": "Title 2.2.2",
-            "quote": "quote 2.2.2",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "HARDLY",
+            "quote": "",
+            "key": "end",
+            "video": "assets/negative.mp4",
+            "concept": "HARDLY"
         }
     },
     "question2.2": {
-        "question": "Chachi question 2.2?",
-        "image": "",
+        "question": "HOW DO YOU ENJOY LIFE?",
+        "image": "assets/passion.png",
         "video1": {
-            "title": "Title 2.2.1",
-            "quote": "quote 2.2.1",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "JUMPING",
+            "quote": "",
+            "key": "end",
+            "video": "assets/DANCING OBSESSION.mp4",
+            "concept": "JUMPING"
         },
         "video2": {
-            "title": "Title 2.2.2",
-            "quote": "quote 2.2.2",
-            "key": "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.",
-            "video": "assets/flowers.mp4",
-            "concept": "concept"
+            "title": "OBSESSING",
+            "quote": "",
+            "key": "end",
+            "video": "assets/PASSIONS 2.mp4",
+            "concept": "OBSESSING"
         }
     }
 };
@@ -171,6 +171,7 @@ var startQuestion = function(questionKey) {
     if (questionKey.indexOf("question") == 0) {
         var question = videos[questionKey];
         $("#question").removeAttr("style");
+        $("#question>h1").removeAttr("style");
         $("#question>h1").text(question.question);
         $.fn.fullpage.moveTo(index, index);
         $("#question").addClass("animated flipInX fixedElement");
@@ -196,7 +197,7 @@ var startEnd = function(key) {
     $("#last").fadeIn(1000, function() {
         $.fn.fullpage.moveTo(index, index);
         $("#videoElement").removeClass("hidden");
-        type(key, $("#lastTitle"), function() {
+        type("The happiness is inside you", $("#lastTitle"), function() {
             setTimeout(function() {
                 $("#last").fadeOut(1000);
                 setTimeout(function() {
@@ -234,8 +235,10 @@ var startVideos = function() {
     $.fn.fullpage.moveTo(index, index);
     $("#question").removeClass("flipInX");
     $("#question").animate({
-        fontSize: "8px",
-        top: "30px"
+        top: "-80px"
+    }, 500);
+    $("#question>h1").animate({
+        fontSize: "34px"
     }, 500);
     var array = $("#section" + index).find('video');
     for (var i = 0; i < array.length; i++) {
