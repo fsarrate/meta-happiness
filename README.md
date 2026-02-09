@@ -2,7 +2,7 @@
 
 An interactive documentary that explores the question: *"How do we find happiness, without the after-life?"*
 
-Meta-Happiness is a Project developed during [Popathon](https://hackdash.org/dashboards/popbcn3) 2016, part of the [InterDocsBarcelona](http://i-docs.org/interdocsbarcelona-2016-23-29-june-interactive-pitch-online-screenings-and-popathon/) Festival. We assembled a team of 6 people who had never worked together before. We agreed on a theme and wrote a script. We gathered content from the web and produced an interactive documentary in less than 12 hours. This is the result of an impromptu collaboration. We enjoyed working on the project which was the product of our spontaneous creativity.
+Meta-Happiness is a Project developed during Popathon 2016, part of the InterDocsBarcelona Festival. We assembled a team of 6 people who had never worked together before. We agreed on a theme and wrote a script. We gathered content from the web and produced an interactive documentary in less than 12 hours. This is the result of an impromptu collaboration. We enjoyed working on the project which was the product of our spontaneous creativity.
 
 Why did we kill God? We didn't. When we were born, he was already dead. But we found traces of absurd beliefs and ridiculous assumptions that are still, deeply embedded in our society today. These childish, nightmarish fantasies are interfering with our capacity for fulfilment and happiness. We find this particularly annoying. Wherever you are, or wherever you go, we are sure that you will agree with us. And if you don't, well, then, leave your comment and teach us all yet another universal truth ;-)
 
